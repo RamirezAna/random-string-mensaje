@@ -1,0 +1,16 @@
+{
+  "name": "random-string-mensaje",
+  "version": "1.0.0",
+  "description": "random string mensaje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ana Ramirez <aramirez.cac@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-string-mensaje": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
